@@ -31,6 +31,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush01-672&show_icons=true&locale=en&layout=compact" alt="piyush01-672" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush01-672&" alt="piyush01-672" /></p>
+<div align="center"> 
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>
+</div>
 
 
 
